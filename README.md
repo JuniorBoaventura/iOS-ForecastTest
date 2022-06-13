@@ -11,6 +11,6 @@
 - Bonus: Add a demo mode by replacing a Service which should return static data instead of the one returned by the networking service 
 
 
-## Infos
+## Info
 - Some assets are already in the project 📸
 - Some TODOs are to help you during the test.
