@@ -1,16 +1,16 @@
 # Forecast App
 
-## TODO
+## What to do during this test 📱👨🏼‍💻
 
+- Implement the forecastService in the ViewModel using decency injection
+- Display the day and description in the list
+- Implement swipe to the delete in the the list
+- Implement the navigation using the coordinator pattern
+- Create a SwitfUI detail view design is up to you :) 👩🏽‍🎨 👨🏼‍🎨
 
-- Implémenter le ForecastService et utiliser l'injection de dépendance
-- Afficher le numéro de jour et la description dans la liste
-- Implémenter le swipe to delete
-- Implémenter la navigation via les coordinators
-- Créer une vue SwiftUI de détail (Design libre), les fichiers mis à dispositions peuvent être modifiés
+- Bonus: Add a demo mode by replacing a Service which should return static data instead of the one returned by the networking service 
 
-- Bonus : Ajouter un mode démo, en remplaçant un service qui retourne des données statiques au lieu de celles retournées par le service de networking
 
 ## Infos
-- Des images sont disponibles dans le projet 😊
-- Certain TODO sont spécifié pour guider cette épreuve
+- Some assets are already in the project 📸
+- Some TODOs are to help you during the test.
